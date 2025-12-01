@@ -1,0 +1,12 @@
+groq
+duckduckgo-search
+yfinance
+pandas
+python-dotenv
+termcolor
+tabulate
+ddgs
+
+
+
+

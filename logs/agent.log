@@ -1,0 +1,24 @@
+2025-12-01 15:03:30,434 [INFO] Groq client initialized — LLM path available (ensure your model & key are valid).
+2025-12-01 15:04:06,919 [INFO] Attempting Groq LLM analysis...
+2025-12-01 15:04:07,239 [INFO] HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-12-01 15:04:07,240 [WARNING] Groq model error: Model decommissioned or invalid: Error code: 400 - {'error': {'message': 'The model `llama3-70b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}. Falling back to local analysis.
+2025-12-01 15:04:07,240 [INFO] Running local heuristic analysis (fallback)...
+2025-12-01 15:10:26,483 [INFO] Groq client initialized — LLM path available (ensure your model & key are valid).
+2025-12-01 15:10:41,204 [INFO] Attempting Groq LLM analysis...
+2025-12-01 15:10:41,537 [INFO] HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-12-01 15:10:41,537 [WARNING] Groq model error: Model decommissioned or invalid: Error code: 400 - {'error': {'message': 'The model `llama3-70b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}. Falling back to local analysis.
+2025-12-01 15:10:41,538 [INFO] Running local heuristic analysis (fallback)...
+2025-12-01 15:10:45,567 [ERROR] $SQ: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2025-12-01 15:13:57,815 [INFO] Groq client initialized — LLM path available (ensure your model & key are valid).
+2025-12-01 15:14:07,890 [INFO] Attempting Groq LLM analysis...
+2025-12-01 15:14:08,341 [INFO] HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-12-01 15:14:08,342 [WARNING] Groq model error: Model decommissioned or invalid: Error code: 400 - {'error': {'message': 'The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}. Falling back to local analysis.
+2025-12-01 15:14:08,342 [INFO] Running local heuristic analysis (fallback)...
+2025-12-01 15:14:12,171 [ERROR] $SQ: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2025-12-01 15:23:24,701 [WARNING] genai SDK not available; Gemini integration disabled.
+2025-12-01 15:23:24,703 [WARNING] Gemini not initialized; operating in local-only mode.
+2025-12-01 15:23:27,520 [INFO] Running local fallback analysis...
+2025-12-01 15:23:30,237 [ERROR] $SQ: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2025-12-01 15:23:35,300 [ERROR] $SQ: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2025-12-01 15:38:31,009 [WARNING] genai SDK not available; Gemini integration disabled.
+2025-12-01 15:38:31,011 [WARNING] Gemini not initialized; operating in local-only mode.
