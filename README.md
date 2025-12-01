@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-=======
+
 # EnterpriseMarketAgent
->>>>>>> cbf2386e47737eb605781ed602293e37510f5d27
+
 Enterprise Market Analyst Agent
 Project Overview
 
